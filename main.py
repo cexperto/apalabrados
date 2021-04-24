@@ -26,8 +26,7 @@ def run(user):
                 long = len(user)
                 int(long)
                 last = user[long-1]
-                print(last)
-            # print('is a text')
+                print(last)      
     
 
 if __name__ == '__main__':
