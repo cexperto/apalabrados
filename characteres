@@ -1,0 +1,15 @@
+# user = input('introdusca un dato')
+user = '12@'
+ar = '@'
+a = 'á'
+e = 'é'
+i = 'í'
+o = 'o'
+u = 'ú'
+c = ','
+p = '.'
+pc = ';'
+dp = ':'
+n = '#'
+co ="´"
+com = '"'
