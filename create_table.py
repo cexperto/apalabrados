@@ -21,6 +21,6 @@ characters = Table('characters', metadata,
    Column('character', String (255), nullable=False)
 )
 metadata.create_all(engine)
-# query = insert(first_tb).values(id=1, name="Student", isHappy=True)
+# query = insert(numbers).values(number=123, accumulated=1)
 # ResultProxy = connection.execute(query)
 
