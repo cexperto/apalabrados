@@ -47,12 +47,13 @@ Install python 3+
 
 clone the repository : https://github.com/cexperto/apalabrados
  run 
-    pip install -r requirements
+    pip install -r requirements.txt
+  run
     py apalabrados.py
     
 ## Tech Stack
 
-**Client:** python request
+**Client:** python, request
 
 **Server:** psycopg2, flask, jsonify, response, sqlalchemy, postgresql
 
