@@ -56,5 +56,6 @@ clone the repository : https://github.com/cexperto/apalabrados
 **Client:** python, request
 
 **Server:** psycopg2, flask, jsonify, response, sqlalchemy, postgresql
+**Deploy** heroku.
 
   
